@@ -24,3 +24,5 @@ Three observations about the results of the study:
     - The Survival During Treatment shows that only 36% of mice survived on Infubinol over 45 days. 
       - This is much lower than Capomulin (84% survival rate), and moderately lower than Ketapril and Placebo (both with a 44% survival rate).
  
+## Project Screenshot
+![project screenshot](https://raw.githubusercontent.com/jnnhuynh-web/Matplotlib-Challenge/master/Metastatic%20Spread%20over%20Treatment.png)
